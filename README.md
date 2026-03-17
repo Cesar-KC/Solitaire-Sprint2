@@ -2,13 +2,10 @@
 //Sprint2
 
 //Notes:
-- implemented size 5-11, English and Hexagon types, 
-- Need to finish Diamond and record button
-- Need to restrucutre my code to be more OOP, and be more modular, 
-    kind of a mess at the moment
-- Still bugging mith moves in UI, not as smooth
-- UI needs a massive overhaul, not pleasant at all, but functional
-- JUnit5 testing, Cluade AI was able to create 3 Unit test for me that tested 
+- Implemented sizes 5-11, as well English and Hexagon types, Diamond yet to be completed
+- Code needs some restructuring, mainly Game.class, need to better separate UI and game logic
+- UI needs a massive overhaul, its functional, but unpleasant
+- JUnit5 testing, Claude AI was able to create Unit test for me that tested 
     board construction, move validation, and game status detection
+- Screeshots of Testing and LLM attached as well
 - LLM Link: https://claude.ai/share/e80c8b6d-9818-4787-afbe-815ac5381c96
-
