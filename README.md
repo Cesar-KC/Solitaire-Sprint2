@@ -10,3 +10,4 @@
     board construction, move validation, and game status detection
 - Screenshots of Testing and LLM attached as well
 - LLM Link: https://claude.ai/share/e80c8b6d-9818-4787-afbe-815ac5381c96
+- Video Demo: https://youtu.be/QPESHJP07X8
